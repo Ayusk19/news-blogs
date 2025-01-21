@@ -2,7 +2,7 @@
 
 import React from "react";
 import "./Modal.css";
-import noImg from "../assets/no-Img.png";
+import noImg from "../assets/no-img.png";
 import "./Bookmarks.css";
 
 const Bookmarks = ({ show, bookmarks, onClose, onSelectArticle, onDeleteBookmark }) => {
